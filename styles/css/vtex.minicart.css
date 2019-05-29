@@ -1,0 +1,7 @@
+.container [class*="gray"] {
+    color: #fff;
+}
+
+.badge {
+    background: #000;
+}

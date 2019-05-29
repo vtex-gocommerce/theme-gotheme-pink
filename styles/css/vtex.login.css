@@ -1,0 +1,11 @@
+.container [class*="gray"], .buttonLink div[class*="gray"]  {
+    color: #fff;
+}
+
+.label {
+    color: #fff!important;
+}
+
+.container .hover-bg-muted-5:hover {
+    background-color: transparent;
+}
