@@ -1,7 +1,7 @@
 {
   "vendor": "gocommerce",
   "name": "gotheme-pink",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "title": "GoTheme Pink",
   "builders": {
     "styles": "1.x",
