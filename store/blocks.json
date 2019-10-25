@@ -1,12 +1,15 @@
 {
   "store.home": {
     "blocks": [
+      "inject-into.after-header",
       "carousel#home",
       "flex-layout.row#tarja",
       "flex-layout.row#carousel",
       "rich-text#categoryTitle",
+      "inject-into.header",
       "search-result#home",
-      "newsletter"
+      "newsletter",
+      "inject-into.before-footer"
     ]
   },
 
